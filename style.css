@@ -1,0 +1,29 @@
+body {
+    background-image:
+        url('image-removebg-preview\ \(36\).png'),  
+        linear-gradient(to right, black, rgb(44, 9, 114), rgb(10, 10, 109), black);
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, cover;
+    color: white;
+    font-family: cursive;
+}
+
+html, body {
+    height:100%;
+    margin:0;
+}
+
+.content {
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+img {
+    border:2px solid white;
+}
